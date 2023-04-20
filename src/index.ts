@@ -8,7 +8,7 @@ export interface Env {
 }
 
 const corsHeaders = {
-    "Access-Control-Allow-Origin": "https://edt.cx,https://*.edt.cx",
+    "Access-Control-Allow-Origin": "https://trainwatcher.edt.cx",
     "Access-Control-Allow-Methods": "GET,HEAD,POST,OPTIONS",
     "Access-Control-Max-Age": "86400",
 }
